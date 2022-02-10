@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.company_wrapper #regForm {
+  background-color: #ffffff;
+  margin: 10px auto;
+  font-family: Raleway;
+  padding: 40px;
+  width: 70%;
+  min-width: 300px;
+  border-radius: 5px;
+}
+
+.company_wrapper h1 {
+  text-align: center;  
+  font-size: 20px;
+}
+
+.company_wrapper input, select {
+  padding: 10px;
+  width: 100%;
+  font-size: 13px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+  font-weight: 700;
+}
+.company_wrapper input.invalid {
+  background-color: #ffdddd;
+}
+.company_wrapper .tab {
+  display: none;
+}
+
+.company_wrapper button {
+  background-color: rgb(226, 26, 45);
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+  border-radius: 7px;
+  font-weight: bolder;
+}
+
+.company_wrapper button:hover {
+  opacity: 0.8;
+}
+.company_wrapper label{
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.company_wrapper #prevBtn {
+  background-color: #404040;
+}
+
+/* Make circles that indicate the steps of the form: */
+.company_wrapper .step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.company_wrapper .step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.company_wrapper .step.finish {
+  background-color: #4CAF50;
+}
+/*outo complete*/
+.company_wrapper .autocomplete {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+.autocomplete-items {
+  position: relative;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff; 
+  border-bottom: 1px solid #d4d4d4; 
+}
+.autocomplete-items div:hover {
+  background-color: #e9e9e9; 
+}
+
+
+//add user
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.container_contacts input[type=text], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.container_contacts input[type=submit] {
+  background-color: rgb(226, 26, 45);;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.container_contacts input[type=submit]:hover {
+  opacity: 0.8;
+}
+
+.contacts_wrapper .container_contacts {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 60%;
+  margin:0 auto;
+  font-size: 13px;
+}
+label{
+   font-weight: 700;
+}

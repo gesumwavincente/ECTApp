@@ -1,0 +1,204 @@
+[29-Apr-2019 08:53:22 UTC] PHP Warning:  require_once(dbh.inc.php): failed to open stream: No such file or directory in /home/ectcoke/public_html/ect/nlogin/index.php on line 5
+[29-Apr-2019 08:53:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'dbh.inc.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ectcoke/public_html/ect/nlogin/index.php on line 5
+[29-Apr-2019 08:59:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/nlogin/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 34
+[29-Apr-2019 09:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/nlogin/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 34
+[29-Apr-2019 09:00:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/nlogin/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 27
+[29-Apr-2019 09:21:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/nlogin/index.php:29) in /home/ectcoke/public_html/ect/nlogin/index.php on line 30
+[29-Apr-2019 09:25:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/nlogin/index.php:30) in /home/ectcoke/public_html/ect/nlogin/index.php on line 33
+[13-Jun-2019 10:03:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:04:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:04:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:04:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:04:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:04:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 25
+[13-Jun-2019 10:05:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:05:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 25
+[13-Jun-2019 10:05:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:05:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:05:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 25
+[13-Jun-2019 10:06:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:06:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:06:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 25
+[13-Jun-2019 10:06:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:06:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:06:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:06:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 31
+[13-Jun-2019 10:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:07:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ectcoke/public_html/ect/nlogin/index.php on line 4
+[13-Jun-2019 10:07:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ectcoke/public_html/ect/design/includes/dbh.inc.php:1) in /home/ectcoke/public_html/ect/nlogin/index.php on line 25
+[18-Jul-2019 11:26:28 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:26:28 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:26:38 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:26:38 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:26:38 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:26:38 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:26:38 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:26:46 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:26:46 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:26:46 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:26:46 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:26:46 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:27:11 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:30:03 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:30:03 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:30:03 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:30:03 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:30:03 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:30:27 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:30:27 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:30:27 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:30:27 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:30:27 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:32:23 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:32:23 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:32:23 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:32:23 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:32:23 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:32:53 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:32:53 EET] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 52
+[18-Jul-2019 11:32:53 EET] PHP Fatal error:  Call to undefined method mysqli::error() in /home/ectcoke/public_html/ect/nlogin/index.php on line 52
+[18-Jul-2019 11:34:43 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:34:43 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:34:43 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:34:43 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:34:43 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:35:02 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:35:02 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:35:02 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:35:02 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:35:02 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:36:25 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_ectdb'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:36:25 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:36:25 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:36:25 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:36:25 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:36:33 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_ectdb'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:36:33 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:36:33 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:36:33 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:36:33 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:39:13 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:39:13 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:39:13 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:39:13 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:39:13 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:39:24 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:39:24 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:39:24 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:39:24 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:39:24 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 11:41:43 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:41:53 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 11:41:53 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 11:41:53 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 11:41:53 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 11:41:53 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:19:40 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:19:42 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:19:42 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:19:42 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:19:42 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:19:42 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:19:48 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:19:48 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:19:48 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:19:48 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:19:48 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:19:52 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:19:52 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:19:52 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:19:52 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:19:52 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:19:57 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:19:57 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:19:57 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:19:57 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:19:57 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:20:09 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:20:12 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:20:12 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:20:12 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:20:12 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:20:12 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:20:17 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:20:17 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:20:17 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:20:17 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:20:17 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:22:36 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:22:36 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:22:36 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:22:36 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:22:36 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:22:43 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:22:43 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:22:43 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:22:43 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:22:43 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:25:42 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:26:20 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:26:20 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:26:20 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:26:20 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:26:20 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:26:50 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:26:50 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:26:50 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:26:50 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:26:50 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:27:04 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:27:21 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:27:21 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:27:21 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:27:21 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:27:21 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:28:09 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:28:55 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:28:55 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:28:55 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:28:55 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:28:55 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:41:09 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:41:09 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:41:09 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:41:09 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:41:09 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:41:30 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:41:30 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:41:30 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:41:30 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:41:30 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:42:41 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:42:41 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:42:41 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:42:41 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:42:41 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:45:44 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:45:44 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:45:44 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:45:44 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:45:44 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:46:59 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:46:59 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:46:59 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:46:59 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:46:59 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:49:15 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:49:15 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:49:15 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:49:15 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:49:15 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
+[18-Jul-2019 12:49:32 EET] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ectcoke_user'@'localhost' (using password: YES) in /home/ectcoke/public_html/ect/nlogin/index.php on line 3
+[18-Jul-2019 12:49:32 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 8
+[18-Jul-2019 12:49:32 EET] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 9
+[18-Jul-2019 12:49:32 EET] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ectcoke/public_html/ect/nlogin/index.php on line 15
+[18-Jul-2019 12:49:32 EET] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ectcoke/public_html/ect/nlogin/index.php on line 16
